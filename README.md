@@ -2,7 +2,7 @@
 
 # Amaç
 
-1. Git - Github becelerinin arttırılmasını sağlamak
+1. Git - GitHub becelerinin arttırılmasını sağlamak
 2. Activity yaşam döngüsünü anlamak ve çalışma mantığı üzerine kafa yormak.
 
 # İsterler
