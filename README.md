@@ -41,4 +41,4 @@ ikinci String'e ise method isimlerini yazınız.
 9. Cevabını bulduklarınızı methodların içerisine Comment (//) olarak yazınız.
 10. Yazdığınzı kodları Push'layınız. Ve bu adres üzerindeki ana projeye PR atınız.
 
-En başarılı PR proje'ye "orjinal cevap" olarak kabul edilecektir.
+# En başarılı PR proje'ye "orjinal cevap" olarak kabul edilecektir.
