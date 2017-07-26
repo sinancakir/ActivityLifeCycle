@@ -14,7 +14,6 @@
 5. Activity'nizin içerisine aşağıdaki methodları yazınız - sıralaması önemli değil:
   * onCreate()
   * onContentChanged()
-  * onContentChanged()
   * onStart()
   * onRestoreInstanceState()
   * onPostCreate()
