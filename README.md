@@ -5,7 +5,7 @@
 1. Git - GitHub becelerinin arttırılmasını sağlamak.
 2. Activity yaşam döngüsünü anlamak ve çalışma mantığı üzerine kafa yormak.
 
-# İsterler
+# İstenenler
 
 1. Projeyi "Fork" ediniz.
 2. Master branch'inden yeni bir branch oluşturunuz.

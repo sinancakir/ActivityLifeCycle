@@ -2,17 +2,16 @@ package com.androidedu.kodluyoruzakademi.activitylifecycle;
 
 import android.content.Intent;
 import android.content.res.Configuration;
+import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 
 public class MainActivity extends AppCompatActivity {
 
     private final String MAIN_TAG = "ActivityLifeCycle";
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
